@@ -1,0 +1,37 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "title": "To do 1",
+      "complete": true
+    },
+    {
+      "title": "To do 3 update",
+      "complete": true,
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Product 43232",
+      "image": "image_product_455555.jpg",
+      "price": 400000,
+      "category": "Books",
+      "id": 4
+    },
+    {
+      "name": "Product 7 343432323",
+      "image": "image_product_7.jpg",
+      "price": 700000,
+      "category": "Groceries",
+      "id": 7
+    },
+    {
+      "name": "phat",
+      "image": "sdsds",
+      "price": "3232",
+      "category": "ko",
+      "id": 8
+    }
+  ]
+}
